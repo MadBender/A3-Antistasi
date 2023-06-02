@@ -5,7 +5,7 @@
 ["name", "NAPA"] call _fnc_saveToTemplate;
 
 ["flag", "Flag_FIA_F"] call _fnc_saveToTemplate;
-["flagTexture", "a3\data_f\flags\flag_fia_co.paa"] call _fnc_saveToTemplate;
+["flagTexture", "rhsgref\addons\rhsgref_main\data\Flags\flag_napa_co.paa"] call _fnc_saveToTemplate;
 ["flagMarkerType", "flag_FIA"] call _fnc_saveToTemplate;
 
 ["vehiclesBasic", ["I_G_Quadbike_01_F"]] call _fnc_saveToTemplate;
